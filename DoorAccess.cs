@@ -1,1 +1,1 @@
-Kunci Ruang kelas 1 = 4092
+Kunci Ruang kelas 1 = 40920000
